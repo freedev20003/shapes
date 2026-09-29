@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Shapes.Application/Shapes.Application.csproj" />
+  <Project Path="Shapes.App/Shapes.App.csproj" />
+  <Project Path="Shapes.Domain/Shapes.Domain.csproj" />
+</Solution>
